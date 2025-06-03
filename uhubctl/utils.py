@@ -4,7 +4,7 @@ import subprocess
 
 from packaging import version
 
-UHUBCTL_BINARY = "uhubctl"
+UHUBCTL_BINARY = "uhubctl -f"
 
 
 class UHubCtl:
